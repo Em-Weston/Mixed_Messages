@@ -35,10 +35,8 @@ Project is created with:
 ---
 
 ## Project Status
-Just started, here are the steps I am going to follow to complete my program: 
-  *Plan my project. 
-  *Decide what kind of messages I want my program to output. 
-  
+Project completed. If I wanted to expland my program, I could add:
+  * Random ASCII art.
 
 ---
 
